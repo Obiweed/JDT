@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><permissions>
+<allow type="module" resource="directoryComponent" action="executeFromClient"/>
+<allow action="read" groupName="Utilisateur" groupID="DCE59D4AD46349AFA7873975E804DB13" resource="Model.Category" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="create" groupName="Utilisateur" groupID="DCE59D4AD46349AFA7873975E804DB13" resource="Model.Category" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="update" groupName="Utilisateur" groupID="DCE59D4AD46349AFA7873975E804DB13" resource="Model.Category" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="remove" groupName="Utilisateur" groupID="DCE59D4AD46349AFA7873975E804DB13" resource="Model.Category" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="read" groupName="Utilisateur" groupID="DCE59D4AD46349AFA7873975E804DB13" resource="Model.UserCategory" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="create" groupName="Utilisateur" groupID="DCE59D4AD46349AFA7873975E804DB13" resource="Model.UserCategory" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="update" groupName="Utilisateur" groupID="DCE59D4AD46349AFA7873975E804DB13" resource="Model.UserCategory" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="remove" groupName="Utilisateur" groupID="DCE59D4AD46349AFA7873975E804DB13" resource="Model.UserCategory" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="read" groupName="Utilisateur" groupID="DCE59D4AD46349AFA7873975E804DB13" resource="Model.Work" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="create" groupName="Utilisateur" groupID="DCE59D4AD46349AFA7873975E804DB13" resource="Model.Work" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="update" groupName="Utilisateur" groupID="DCE59D4AD46349AFA7873975E804DB13" resource="Model.Work" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="remove" groupName="Utilisateur" groupID="DCE59D4AD46349AFA7873975E804DB13" resource="Model.Work" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="read" groupName="Utilisateur" groupID="DCE59D4AD46349AFA7873975E804DB13" resource="Model.UserWork" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="create" groupName="Utilisateur" groupID="DCE59D4AD46349AFA7873975E804DB13" resource="Model.UserWork" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="update" groupName="Utilisateur" groupID="DCE59D4AD46349AFA7873975E804DB13" resource="Model.UserWork" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="remove" groupName="Utilisateur" groupID="DCE59D4AD46349AFA7873975E804DB13" resource="Model.UserWork" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="read" groupName="Utilisateur" groupID="DCE59D4AD46349AFA7873975E804DB13" resource="Model.User" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="create" groupName="Administrateur" groupID="BCB8EF0F6F6A43D6A9B2665333768B3E" resource="Model.User" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="update" groupName="Administrateur" groupID="BCB8EF0F6F6A43D6A9B2665333768B3E" resource="Model.User" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="remove" groupName="Administrateur" groupID="BCB8EF0F6F6A43D6A9B2665333768B3E" resource="Model.User" temporaryForcePermissions="false" type="dataClass"/>
+</permissions>
