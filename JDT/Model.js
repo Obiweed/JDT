@@ -5,6 +5,8 @@
 			USER
 **********************************/
 
+/*Testing commit with coda2*/
+
 //include('model/UserClass.js');
 
 model.User = {};
